@@ -1,0 +1,19 @@
+{
+  "name": "backend-professional-file-and-folder-structure",
+  "version": "1.0.0",
+  "description": "Professional backend file and folder structure",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev":"nodemon src/server.js"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "express",
+    "mongodb"
+  ],
+  "author": "Himanshu kumar",
+  "license": "ISC"
+}
